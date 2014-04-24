@@ -1,0 +1,35 @@
+<svg width='100%' height='100%' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+	<svg x='9%' y='6%' overflow='visible'>
+		<g id='b'>
+			<line id='l' x1='0%' x2='0' y1='0' y2='1000%' style='stroke:#073642; stroke-width:2;' transform='rotate(0) translate(0,70)'/>
+			<use xlink:href='#l' transform='rotate(3.6)' />
+			<use xlink:href='#l' transform='rotate(7.2)' />
+			<use xlink:href='#l' transform='rotate(10.8)' />
+			<use xlink:href='#l' transform='rotate(14.4)' />
+			<use xlink:href='#l' transform='rotate(18)' />
+			<use xlink:href='#l' transform='rotate(21.6)' />
+			<use xlink:href='#l' transform='rotate(25.2)' />
+			<use xlink:href='#l' transform='rotate(28.8)' />
+			<use xlink:href='#l' transform='rotate(32.4)' />
+			<use xlink:href='#l' transform='rotate(36)' />
+			<use xlink:href='#l' transform='rotate(39.6)' />
+			<use xlink:href='#l' transform='rotate(43.2)' />
+			<use xlink:href='#l' transform='rotate(46.800000000000004)' />
+			<use xlink:href='#l' transform='rotate(50.4)' />
+			<use xlink:href='#l' transform='rotate(54)' />
+			<use xlink:href='#l' transform='rotate(57.6)' />
+			<use xlink:href='#l' transform='rotate(61.2)' />
+			<use xlink:href='#l' transform='rotate(64.8)' />
+			<use xlink:href='#l' transform='rotate(68.4)' />
+			<use xlink:href='#l' transform='rotate(72)' />
+			<use xlink:href='#l' transform='rotate(75.60000000000001)' />
+			<use xlink:href='#l' transform='rotate(79.2)' />
+			<use xlink:href='#l' transform='rotate(82.8)' />
+			<use xlink:href='#l' transform='rotate(86.4)' />
+		</g>
+		<use xlink:href='#b' transform='rotate(90)' />
+		<use xlink:href='#b' transform='rotate(180)' />
+		<use xlink:href='#b' transform='rotate(270)' />
+	</svg>
+	<circle cx='9%' cy='6%' r='70' fill='#fdf6e3' />
+</svg>
